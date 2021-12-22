@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
     IO_USERNAME="thisisme"
     IO_KEY="aio_WCpzU40CAGsdLuslZSz4uhwxaiNj"
     firewall-p@ss
+    <string>AIzaSyBi-fo214fA1M4jrZVsxwczt7BodkFpS9E</string>
